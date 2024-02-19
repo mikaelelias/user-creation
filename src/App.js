@@ -1,5 +1,7 @@
 import React from "react";
 import './style.js';
+import People from './assets/people.svg'
+
 import { 
   Container,
   Image,
@@ -14,8 +16,8 @@ const App = () => {
   return (
     <Container>
 
-      <Image />
-      <ContainerItens>
+      <Image alt='logo-people' src="People"/>
+      <ContainerItens> 
         <H1>Oi</H1>
 
         <InputLabel>Nome</InputLabel>

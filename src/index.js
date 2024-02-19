@@ -6,7 +6,7 @@ import GlobalStyle from './globalStyle';
 
 ReactDOM.render(
     <>
-    <App /> <GlobalStyle />, // fragment para incapsular os elementos evitando criar uma div.
+    <App /> <GlobalStyle />
     </>,
     document.getElementById('root')); //renderização no html
 
