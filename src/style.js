@@ -80,3 +80,7 @@ export const Button = styled.button`
     line-height: 28px;
     cursor: pointer;
 `;
+
+/* CONTINUAR DESENVOLVIMENTO AMANHÃ DE MANHÃ 23/02
+        APLICAÇÃO, SEGUNDA TELA.
+*/
