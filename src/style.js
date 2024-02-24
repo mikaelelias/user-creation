@@ -79,8 +79,14 @@ export const Button = styled.button`
     font-size: 17px;
     line-height: 28px;
     cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20;
+
+    &:hover {
+        opacity: 0.5;
+    }
 `;
 
-/* CONTINUAR DESENVOLVIMENTO AMANHÃ DE MANHÃ 23/02
-        APLICAÇÃO, SEGUNDA TELA.
-*/
