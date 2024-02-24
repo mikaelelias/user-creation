@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import Background from "./assets/bg image 1.svg"
+import Arrow from "./assets/arrow-right.svg"
 
 export const Container = styled.div`
     background-image: url("${Background}");
