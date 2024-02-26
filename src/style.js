@@ -91,3 +91,42 @@ export const Button = styled.button`
     }
 `;
 
+export const User = styled.li`
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 20px;
+        
+        background: linear-gradient(
+        157.44deg,
+        rgba(255, 255, 255, 0.6) 0.84%,
+        rgba(255, 255, 255, 0.6) 0.85%,
+        rgba(255, 255, 255, 0.15) 100%
+    );
+    width: 342px;
+    height: 58px;
+    border:none;
+
+    border-radius: 14px;
+    outline: none;
+
+    margin-top: 20px;
+    
+
+    p {
+        letter-spacing: -0.408px;
+        font-size: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 22px;
+        color: #eeeeee;
+        margin-left: 25px;
+    }
+
+    button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+`;
+
