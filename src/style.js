@@ -127,6 +127,7 @@ export const User = styled.li`
         background: none;
         border: none;
         cursor: pointer;
+        color: #ffffff;
     }
 `;
 
